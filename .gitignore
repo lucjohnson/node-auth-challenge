@@ -1,0 +1,16 @@
+node_modules
+.idea
+.DS_Store
+
+# ignore .vagrant directory
+**/.vagrant/*
+
+# ignore all files in any directory named `secret`
+**/secret/*
+
+# except files ending in `.template` or `.md`
+!**/secret/*.template
+!**/secret/*.md
+
+# ignore VSCode typings directory
+typings

@@ -1,0 +1,57 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express/express.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "mime/mime.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "node/node.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "7ce80dafc0df189d61950e80e04548d8304d1538"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "7ce80dafc0df189d61950e80e04548d8304d1538"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "7ce80dafc0df189d61950e80e04548d8304d1538"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "86dbea8fc37d9473fee465da4f0a21bea4f8cbd9"
+    },
+    "passport/passport.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    },
+    "mysql/mysql.d.ts": {
+      "commit": "86dbea8fc37d9473fee465da4f0a21bea4f8cbd9"
+    },
+    "passport-local/passport-local.d.ts": {
+      "commit": "86dbea8fc37d9473fee465da4f0a21bea4f8cbd9"
+    },
+    "bcrypt/bcrypt.d.ts": {
+      "commit": "57556a5fa10e3575e57c0061b7a5f3d5f0355a0f"
+    },
+    "express-session/express-session.d.ts": {
+      "commit": "717a5fdb079f8dd7c19f1b22f7f656dd990f0ccf"
+    },
+    "passport-facebook/passport-facebook.d.ts": {
+      "commit": "717a5fdb079f8dd7c19f1b22f7f656dd990f0ccf"
+    },
+    "passport-twitter/passport-twitter.d.ts": {
+      "commit": "717a5fdb079f8dd7c19f1b22f7f656dd990f0ccf"
+    },
+    "passport-google-oauth/passport-google-oauth.d.ts": {
+      "commit": "4ec3c5bf291bc02f49eb30c1077340b235165c67"
+    }
+  }
+}
